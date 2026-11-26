@@ -1,0 +1,9 @@
+{
+  "name": "virtual-world-online",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mobile-first starter for a small online 3D virtual city",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
